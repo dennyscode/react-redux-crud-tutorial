@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-redux-crud-tutorial/static/css/main.6f2013db.css",
+    "main.js": "/react-redux-crud-tutorial/static/js/main.24fa461f.js",
+    "static/js/787.ad0c699b.chunk.js": "/react-redux-crud-tutorial/static/js/787.ad0c699b.chunk.js",
+    "index.html": "/react-redux-crud-tutorial/index.html",
+    "main.6f2013db.css.map": "/react-redux-crud-tutorial/static/css/main.6f2013db.css.map",
+    "main.24fa461f.js.map": "/react-redux-crud-tutorial/static/js/main.24fa461f.js.map",
+    "787.ad0c699b.chunk.js.map": "/react-redux-crud-tutorial/static/js/787.ad0c699b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f2013db.css",
+    "static/js/main.24fa461f.js"
+  ]
+}
